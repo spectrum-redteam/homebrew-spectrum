@@ -2,8 +2,8 @@ class SpectrumSecurity < Formula
   include Language::Python::Virtualenv
   desc "Autonomous Cyber Reasoning System - Red Team & Blue Team AI agents"
   homepage "https://github.com/spectrum-redteamer/spectrum-project"
-  url "https://files.pythonhosted.org/packages/c0/cc/c5152bc9c4f7d56b70a0b171060b0fe16beb7e039bbfdf351048cbc15f70/spectrum_security-1.35.8.tar.gz"
-  sha256 "7a06efb87d915c847ef19cd1c446b4684a75c4a024931f901a3214941d4b79eb"
+  url "https://files.pythonhosted.org/packages/45/60/cef00a61140724b708a86cbe470fcc00ac0ec66e8ab6c492e26922757896/spectrum_security-1.35.17.tar.gz"
+  sha256 "5d3d2d85264b4417d9d78e8e632eb14baa93f183cdbf62dbac558760a3f8a1d7"
   license "MIT"
 
   depends_on "python@3.11"
